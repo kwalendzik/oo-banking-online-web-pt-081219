@@ -26,8 +26,7 @@ class Transfer
   end
   
   def reverse_transfer
-    #reverse
-    #can only reverse executed transfers
+   
   end
 
 end
